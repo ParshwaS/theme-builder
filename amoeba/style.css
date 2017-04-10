@@ -1,0 +1,49 @@
+.editable-click{
+	border: none;
+}
+
+.testimonial1 > span.editable-inline > div > form > div.form-group > div > div.editable-input > textarea{
+	width: 55vw;
+	height: 80px;
+	margin: 0 auto;
+}
+
+.team-text > span.editable-inline > div > form > div.form-group > div > div.editable-input > textarea{
+	width: 30vw;
+	height: 80px;
+	margin: 0 auto;
+}
+
+.contact-editable > span.editable-inline > div > form > div.form-group > div > div.editable-input > textarea{
+	width: 30vw;
+	height: 80px;
+	margin: 0 auto;
+}
+
+.upload-btn {
+	color: #333;
+	padding: 10px;
+	position: absolute;
+	font-size: 10px;
+	display: none;
+	background: rgba(255, 255, 255, 0.7);
+	transform: translateY(-100%);
+	z-index: 5;
+}
+
+.upload-btn:hover {
+	background: rgba(255, 255, 255, 1);
+	cursor: pointer;
+}
+
+.file {
+	display: none !important;
+}
+
+#testimonials{
+	background-size: cover;
+}
+
+#parallax1{
+	background-size: cover;
+}
